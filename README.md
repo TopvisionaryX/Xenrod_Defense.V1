@@ -3,7 +3,7 @@ XENROD_DXL is a high-velocity cybersecurity framework engineered for determinist
 Proprietary AI Kernel: Optimized for a 3.25s cold-start heuristic analysis, bridging the gap between passive detection and kinetic defense.
 Zero-Latency Interdiction: Sub-millisecond execution for active threat neutralization upon command entry.
 Command Versatility: A modular library of 200+ Core Protocols, extensible to 1,000+ tactical commands for complex decryption and system recovery.
-// TARGET ENVIRONMENTS Engineered specifically for resource-constrained, high-stakes domains including Aerospace, Edge Defense, and Integrated Bio-Hybrid Robotics.
+// TARGET ENVIRONMENTS Engineered specifically for resource-constrained, high-stakes domains including Aerospace, Edge Defense, and Integrated Bio-Hybrid Robotics.Legal Notice: This repository and all associated source code are the exclusive intellectual property of OPX.SPACE (CO). No license is granted for use, modification, or distribution. All Rights Reserved.
 // PROJECT: XENROD_DXL (v1.0)
 // AUTHOR: [J.Wattson Cyrus/Lead Architect]
 // OWNER: (C) 2026 OPX.SPACE (CO) - ALL RIGHTS RESERVED
